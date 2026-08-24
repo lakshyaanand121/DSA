@@ -1,4 +1,5 @@
 //WRITE A PROGRAM TO FIND AVERAGE MARKS OBTAINED BY 10 STUDENTS IN A TEST.
+
 #include<iostream>
 using namespace std;
 int main()
