@@ -13,7 +13,7 @@ void push()
             cin >> item;
             top++;
             stack[top] = item;
-            cout << item << " inserted into stack"<<endl;;
+            cout << item << " inserted into stack"<<endl;
         
 }
     void display()
