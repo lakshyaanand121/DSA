@@ -12,7 +12,7 @@ int main()
     {
         for (j = 0; j < 3; j++)
             cin >> matrix_a[i][j];
-    }
+    } 
     cout << "matrix a" << endl;
     for (i = 0; i < 3; i++)
     {
