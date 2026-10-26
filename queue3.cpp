@@ -4,7 +4,7 @@ using namespace std;
 int queue[max];
 int front = -1;
 int rear = -1;
-void enqueue()
+void enqueue() 
 {
     int item;
     if ((rear + 1) % max == front)
