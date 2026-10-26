@@ -11,7 +11,7 @@ void push()
     else
         cout << "enter element" << endl;
     cin >> item;
-    top++;
+    top++; 
     stack[top] = item;
     cout << item << " inserted into stack" << endl;
 }
