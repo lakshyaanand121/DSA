@@ -22,8 +22,7 @@ int main()
         }
         cout << endl;
     }
-    cout << "enter 9 elements of matrix b :" << endl;
-
+    cout << "enter 9 elements of matrix b :" << endl;
     for (i = 0; i < 3; i++)
     {
         for (j = 0; j < 3; j++)
