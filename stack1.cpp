@@ -6,7 +6,7 @@ int top = -1;
 void push()
 {
     int item;
-    if (top == MAX - 1)
+    if (top == MAX - 1) 
         cout << "stack overflow" << endl;
     else
             cout << "enter element" << endl;
