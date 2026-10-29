@@ -9,7 +9,7 @@ int main()
     cout<<"enter marks of 10 students:"<<endl;
     for(i=0;i<10;i++){
         cin>>marks[i];
-    }
+    } 
     for(i=0;i<10;i++){
         sum=sum+marks[i];
     }
