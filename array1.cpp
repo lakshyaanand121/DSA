@@ -2,7 +2,7 @@
 
 #include<iostream>
 using namespace std;
-int main()
+int main() 
 {
     float avg,sum=0;
     int i,marks[10];
