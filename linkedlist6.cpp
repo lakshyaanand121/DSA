@@ -13,7 +13,7 @@ void delfromend(node *&head)
     {
         cout << "empty";
         return;
-    }
+    } 
     if (head->next == NULL)
     {
         delete head;
