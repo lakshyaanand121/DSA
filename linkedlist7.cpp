@@ -4,7 +4,7 @@ using namespace std;
 struct node
 {
     int data;
-    node *next;
+    node *next; 
 };
 
 void insertfromfront(node *&head, int value)
