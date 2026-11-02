@@ -4,7 +4,7 @@ using namespace std;
 int stack[MAX];
 int top = -1;
 void push()
-{
+{ 
     int item;
     if (top == MAX - 1) 
         cout << "stack overflow" << endl;
