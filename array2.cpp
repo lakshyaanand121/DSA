@@ -2,7 +2,7 @@
 using namespace std;
 void arraypass(int[],int a);
 int main(){
-    int i,a[5];
+    int i,a[5]; 
     cout<<"enter 5 numbers : "<<endl;
     for(i=0;i<5;i++){
         cin>>a[i];
