@@ -10,7 +10,7 @@ void enqueue()
     if ((rear + 1) % max == front)
     {
         cout << "queue overflow";
-        return;
+        return; 
     }
     if (front == -1)
     {
