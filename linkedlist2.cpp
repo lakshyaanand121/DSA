@@ -5,7 +5,7 @@ struct node
     int data;
     node *next; 
 };
-void display(node *head)
+void display(node *head) 
 {
     node *temp = head;
     while (temp != NULL)
