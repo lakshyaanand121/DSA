@@ -5,7 +5,7 @@ struct node
     int data;
     node *next;
 };
-int main()
+int main() 
 {
     node *head = new node;
     node *second = new node;
