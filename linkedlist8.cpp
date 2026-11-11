@@ -5,7 +5,7 @@ struct node
     int data;
     node *prev;
     node *next;
-};
+};
 void insertionfromfront(node *&head, int value)
 {
     node *newnode = new node;
