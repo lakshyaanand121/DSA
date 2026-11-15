@@ -3,7 +3,7 @@ using namespace std;
 struct node
 {
     int data; 
-    node *next;
+    node *next; 
 };
 void insertatend(node *&head, int value)
 {
