@@ -6,7 +6,7 @@ int front = -1;
 int rear = -1;
 void enqueue()
 {
-    int item;
+    int item; 
     if (rear == max - 1)
     {
         cout << "queue overflow" << endl;
