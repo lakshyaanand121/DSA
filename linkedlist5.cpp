@@ -2,7 +2,7 @@
 using namespace std;
 struct node{
     int data;
-    node *next;
+    node *next; 
 };
 
 void deletion(node *&head){
