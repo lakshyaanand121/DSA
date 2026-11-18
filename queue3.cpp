@@ -3,7 +3,7 @@ using namespace std;
 #define max 5
 int queue[max];
 int front = -1;
-int rear = -1;
+int rear = -1; 
 void enqueue() 
 {
     int item;
