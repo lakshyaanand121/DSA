@@ -7,7 +7,7 @@ struct node{
 
 void deletion(node *&head){
     if(head==NULL){
-        cout<<"empty"<<endl;
+        cout<<"empty"<<endl; 
         return;
     }
     node *temp=head;
