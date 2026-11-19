@@ -5,7 +5,7 @@ int main()
     int i, j, matrix[3][3];
     int matrix_a[3][3];
     int matrix_b[3][3];
-    int matrix_c[3][3];
+    int matrix_c[3][3]; 
     cout << "enter 9 elements of matrix a :" << endl;
 
     for (i = 0; i < 3; i++)
