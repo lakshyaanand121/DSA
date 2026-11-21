@@ -8,7 +8,7 @@ public:
     int profit(int prices[], int n)
     {
 
-        int minPrice = INT_MAX;
+        int minPrice = INT_MAX; 
         int maxProfit = 0;
         for (int i = 0; i < n; i++)
         {
