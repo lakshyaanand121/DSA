@@ -8,7 +8,7 @@ struct node
 };
 void insertionfromfront(node *&head, int value)
 {
-    node *newnode = new node;
+    node *newnode = new node; 
     newnode->data = value;
     newnode->prev = NULL;
     newnode->next = head;
