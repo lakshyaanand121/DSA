@@ -1,7 +1,7 @@
 // insertion
 #include <iostream>
 using namespace std;
-int main()
+int main() 
 {
     int i, n, a[10], loc, item;
     cout << "enter number of element in array:\n"
